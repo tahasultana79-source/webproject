@@ -1,2 +1,2 @@
 # webproject
-AI-Driven smart job recomendation
+AI-Driven smart job recomendation and matching system
